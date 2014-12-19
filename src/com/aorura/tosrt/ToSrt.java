@@ -1,6 +1,6 @@
 /*
  * copyright belongs to chalse.park
- * hyponus@gmail.com
+ * hyponus@gmail.com, aorura@korea.com
  */
 package com.aorura.tosrt;
 
