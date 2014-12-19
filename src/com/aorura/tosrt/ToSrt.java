@@ -1,3 +1,7 @@
+/*
+ * copyright belongs to chalse.park
+ * hyponus@gmail.com
+ */
 package com.aorura.tosrt;
 
 import java.io.BufferedReader;
